@@ -1,4 +1,4 @@
-<template>
+<template name="login">
 	<view>
 		
 	</view>
